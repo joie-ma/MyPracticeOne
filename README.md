@@ -1,2 +1,2 @@
 # MyPracticeOne
-some exercise
+exercise-book
